@@ -1,0 +1,6 @@
+@article{REPO386,
+    author = "Liu, Shiwei and Chen, Tianlong and Chen, Xiaohan and Chen, Xuxi and Xiao, Qiao and Wu, Boqian and Pechenizkiy, Mykola and Mocanu, Decebal and Wang, Zhangyang",
+    journal = "arXiv preprint arXiv:2207.03620",
+    title = "{More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity}",
+    year = "2022"
+}
